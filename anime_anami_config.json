@@ -13,10 +13,10 @@
       "backup_ads_rewarded":"",
       "interstitial_counter": "15",
       "maintenance": "0",
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.awpdevs.erzanime",
       "base_url": "https://https://anitaku.to/home.html/",
-      "current_version": "1.0.1"
+      "current_version": "1.0.0"
     }
   ]
 }
